@@ -1,7 +1,7 @@
 # Lottohistorik
-Filen lottohistorik.ods innehåller resultathistorik av de rätta raderna för Svenska Spels Lotto 1, Lotto 2 & Joker, Eurojackpot, samt Vikinglotto. Data finns även tillgänglig för LibreOffice Base (Lottohistorik.odb) och Kexi (Lottohistorik.kexi).
+Filen lottohistorik.odb innehåller resultathistorik av de rätta raderna för Svenska Spels Lotto 1, Lotto 2 & Joker, Eurojackpot, samt Vikinglotto. LibreOffice Base krävs för att köra filen.
 
-* Databasen för Lotto 1 och Lotto 2 innehåller historisk data mellan 2000-01-05 och 2024-06-26.
+* Databasen för Lotto innehåller historisk data för alla resultat sedan starten 1980-09-06 till 2024-06-29. Lottoresultat innan 2000-01-05 är separerade som ”legacy” och är begränsade till 7 huvudnummer (inga tilläggsnummer). Vissa datum kan avvika från verkligt dragningsdatum i detta datasetet.
 
 * Databasen för Joker innehåller historisk data mellan 2012-07-18 och 2024-06-26.
 
