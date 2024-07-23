@@ -20,9 +20,9 @@ För att lägga in nya resultat:
 
 * Databasen för Joker innehåller historisk data mellan 2012-07-18 och 2024-07-20.
 
-* Databasen för Eurojackpot innehåller historisk data från spelstart 2012-03-23 till 2024-07-19.
+* Databasen för Eurojackpot innehåller historisk data från spelstart 2012-03-23 till 2024-07-19. 
 
-* Databasen för Vikinglotto innehåller historisk data från senaste spelregeländring 2017-05-24 till 2024-07-17.
+* Databasen för Vikinglotto innehåller historisk data från senaste spelregeländring 2017-05-24 till 2024-07-17. Äldre resultat mellan 1993-03-17 och 2017-05-17 är arkiverade som ”legacy” då resultaten bygger på föråldrade spelregler.
 
 * Alla vinstsummor är i SEK.
 
