@@ -3,6 +3,8 @@ Lottohistorik på Discord: https://discord.gg/JjQv7hxWSX
 
 Filen lottohistorik.odb innehåller resultathistorik av de rätta raderna för Svenska Spels Lotto 1, Lotto 2 & Joker, Eurojackpot, samt Vikinglotto. LibreOffice Base krävs för att köra filen och macro security ska vara satt till medium.
 
+Filen dbsqlite_alla_lotto.db innehåller all rådata för Svenska Spels Lotto 1, Lotto 2 & Joker, Eurojackpot, samt Vikinglotto, sedan spelstart för alla spelen. DB Browser for SQLite rekommenderas för att öppna databasen.
+
 För att ladda ned lottohistorik-filer, klicka på filerna och välj sedan "Download raw file".
 
 För att rätta dina spel:
